@@ -7,9 +7,9 @@ Count line numbers of all files in a folder.
 Run the file from the commandline
 
 ```
-* Count all javascript files in "myprosj" folder:
+* Count all javascript files in "myfolder" folder:
 
-$ ruby lc.rb ../dev/myprosj .js
+$ ruby lc.rb ../dev/myfolder .js
 
 167. Map.js
 156. config.js
