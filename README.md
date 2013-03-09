@@ -39,3 +39,5 @@ $ ruby lc.rb ../dev/myfolder .js
 
 Total lines: 1322
 ```
+
+Ruby is required
