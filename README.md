@@ -1,13 +1,13 @@
 #LineCounter
 
-Count line numbers of all files in a folder.
+Simple Ruby program. Count line numbers of all files in a folder.
 
 ##Usage
 
 Run the file from the commandline
 
 ```
-* Count linenumbers of all javascript files in "myfolder" folder:
+* Example: Count linenumbers of all javascript files in "myfolder" folder:
 
 $ ruby lc.rb ../dev/myfolder .js
 
@@ -39,5 +39,3 @@ $ ruby lc.rb ../dev/myfolder .js
 
 Total lines: 1322
 ```
-
-Ruby is required
